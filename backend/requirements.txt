@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+crawl4ai
+asyncio
+psycopg2-binary
